@@ -1,0 +1,29 @@
+.button{
+	background-color: #222831;
+	padding:15px 20px;
+	border-radius: 4px;
+	text-align: center;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 100px;
+	text-decoration: none;
+	font-color: #eeeeee;
+}
+.button:hover {
+	background-color: rgb(198, 184, 185);
+	font-color:rgb(198, 184, 185);
+}
+a{
+	text-decoration: none;
+	color: #eeeeee;
+	transition: color 0.3s ease;
+	display: block;
+
+}
+a:hover{
+	font-color: #222831;
+}
+
+.button #email : hover{
+	font-color: ;
+}

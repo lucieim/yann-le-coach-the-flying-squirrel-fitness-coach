@@ -1,0 +1,17 @@
+.banner{
+	background-image: linear-gradient(149deg, rgba(191, 175, 155,0.5) ,rgba(191, 175, 155,0.5)), url("banner.jfif");
+	background-size: cover;
+	background-position: center;
+	color: #222831;
+	margin: 0;
+	padding: 150px 0px ;
+}
+.banner h1 {
+	font-size: 80px;
+	font-color: #FEA82F ;
+}
+.banner p {
+	font-size: 40px;
+	font-color: #fea82f ;
+	font-weight: bolder;
+}

@@ -1,0 +1,33 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Righteous&display=swap");
+@import url("css/container.css");
+@import url("css/avatar.css");
+@import url("css/button.css");
+@import url("css/banner.css");
+@import url("css/card.css");
+
+
+
+
+
+body{
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	margin: 0px;
+}
+h1,h2,h3,h4{
+	font-family: 'Righteous', cursive;
+}
+h3{
+	font-size: 15px;
+}
+.cards-grid{
+	display: inline-flex;
+	flex-wrap: wrap;
+}
+#email{
+	font-weight: bolder;
+}
+#email : hover{
+	font-color: rgb(198, 184, 185);
+}
